@@ -1,0 +1,5 @@
+const GET_PRODUCT_SUCCESS = 'getProductsSuccess';
+const GET_PRODUCT_FAIL = 'getProductsFail';
+const GET_PRODUCT_DETAIL_SUCCESS = 'getProductDetailSuccess';
+const GET_PRODUCT_DETAIL_FAIL = 'getProductDetailFail';
+export {GET_PRODUCT_SUCCESS,GET_PRODUCT_FAIL,GET_PRODUCT_DETAIL_SUCCESS,GET_PRODUCT_DETAIL_FAIL};
